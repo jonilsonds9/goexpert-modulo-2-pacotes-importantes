@@ -1,0 +1,2 @@
+### GET Info CEP
+GET http://localhost:8080/?cep=63200000
